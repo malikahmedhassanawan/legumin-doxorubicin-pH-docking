@@ -1,0 +1,29 @@
+# trajectories, run files, checkpoints (these go to Zenodo)
+*.xtc
+*.trr
+*.cpt
+*.tpr
+*.edr
+*.gro
+*.part*
+md*.log
+#*#
+.#*
+
+# AutoGrid maps (regenerate from the .gpf files)
+*.map
+*.maps.xyz
+
+# archives and upload staging
+*.zip
+zenodo_parts/
+
+# Colab, Python and system junk
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# secrets
+.env
+*token*
