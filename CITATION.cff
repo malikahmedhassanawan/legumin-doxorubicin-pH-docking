@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Simulation, docking and pKa data for doxorubicin binding to a legumin hexamer"
+type: dataset
+authors:
+  - family-names: "Awan"
+    given-names: "Malik Ahmed Hassan"
+    orcid: "https://orcid.org/0009-0002-7395-6639"
+    affiliation: "Bahauddin Zakariya University, Multan, Pakistan"
+repository-code: "https://github.com/malikahmedhassanawan/legumin-doxorubicin-pH-docking"
+# doi: "10.5281/zenodo.XXXXXXX"
+version: "1.0"
+date-released: "2026-11-23"
+license: MIT
+keywords:
+  - molecular dynamics
+  - molecular docking
+  - legumin
+  - doxorubicin
+  - pKa
+  - drug delivery
+abstract: "Files for a computational study of whether a legumin hexamer could carry doxorubicin at pH 7.4 and release it at pH 5.0, using GROMACS, AutoDock Vina, AutoDock4 and PROPKA."
