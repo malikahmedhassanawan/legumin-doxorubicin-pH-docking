@@ -1,4 +1,4 @@
-# legumin-doxorubicin-ph-docking
+# legumin-doxorubicin-pH-docking
 
 Files behind my preprint on whether a legumin hexamer could carry doxorubicin at blood pH (7.4) and let it go at endosomal pH (5.0).
 
