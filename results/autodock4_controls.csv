@@ -1,0 +1,12 @@
+site,receptor,elec,dG
+hot1,pH7.4,-1.26,-19.35
+hot1,full pH5.0 (over-protonated),1.08,-17.37
+hot1,7.4 + Asp296 neutral,-0.61,-18.79
+hot1,7.4 + His129 +1,-1.16,-19.0
+hot1,7.4 + acid patch neutral,0.01,-18.54
+hot1,7.4 + Asp296 half neutral,-0.94,-19.07
+hot1,realistic pH5.0,-0.9,-19.03
+pk1,pH7.4,-0.08,-12.96
+pk1,7.4 + His196 +1 (upper bound),0.4,-12.28
+pk1,realistic pH5.0 + His196 (0.9),0.37,-12.33
+pk1,"realistic pH5.0, His196 neutral",-0.06,-12.94

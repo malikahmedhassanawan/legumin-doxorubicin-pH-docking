@@ -1,0 +1,9 @@
+site,titrated_near_amine,pose_file,elec_shift_pHaware,dG_shift_pHaware,elec_shift_overprot,dG_shift_overprot,vina_best
+hot1,Asp296(C),dock_hot1_29_pH50.pdbqt,0.36,0.32,2.34,1.98,-9.397
+hot2,Glu291(A); Asp354(F),dock_hot2_29_pH50.pdbqt,0.14,-0.17,1.82,3.19,-7.629
+hot4,Asp354(D); Glu109(E),dock_hot4_29_pH50.pdbqt,0.12,0.02,1.77,1.56,-8.49
+pocket6,Glu335(B),dock_pk6_29_pH74.pdbqt,0.05,0.03,1.68,1.68,-9.357
+centre_box,Glu335(A),dock_center_29_pH74.pdbqt,0.15,0.14,1.86,1.85,-9.208
+siteA,none within 10 A,dock_siteA_29_pH74.pdbqt,0.0,0.0,1.42,1.42,-10.592
+pk1,His196(A),dock_pk1_29_pH74.pdbqt,0.36,0.52,1.68,1.76,-6.566
+pk7,none within 10 A,dock_pk7_29_pH74.pdbqt,0.0,0.0,1.76,1.76,-7.79
