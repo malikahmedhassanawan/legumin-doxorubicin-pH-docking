@@ -1,0 +1,16 @@
+npts 60 60 60
+gridfld pk7_0.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA S
+ligand_types A C HD NA OA
+receptor pk7_0.pdbqt
+gridcenter 109.757 107.696 57.792
+smooth 0.5
+map pk7_0.A.map
+map pk7_0.C.map
+map pk7_0.HD.map
+map pk7_0.NA.map
+map pk7_0.OA.map
+elecmap pk7_0.e.map
+dsolvmap pk7_0.d.map
+dielectric -0.1465
