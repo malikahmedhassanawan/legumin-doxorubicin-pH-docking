@@ -8,9 +8,9 @@ authors:
     orcid: "https://orcid.org/0009-0002-7395-6639"
     affiliation: "Bahauddin Zakariya University, Multan, Pakistan"
 repository-code: "https://github.com/malikahmedhassanawan/legumin-doxorubicin-pH-docking"
-# doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.XXXXXXX"
 version: "1.0"
-date-released: "2026-11-23"
+date-released: "2026-11-26"
 license: MIT
 keywords:
   - molecular dynamics
