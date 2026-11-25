@@ -1,0 +1,15 @@
+autodock_parameter_version 4.2
+outlev 1
+intelec
+ligand_types A C HD NA OA
+fld rec74.maps.fld
+map rec74.A.map
+map rec74.C.map
+map rec74.HD.map
+map rec74.NA.map
+map rec74.OA.map
+elecmap rec74.e.map
+desolvmap rec74.d.map
+move lig.pdbqt
+about 88.574 67.668 49.561
+epdb

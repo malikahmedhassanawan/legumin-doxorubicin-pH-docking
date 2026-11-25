@@ -1,0 +1,16 @@
+npts 60 60 60
+gridfld rec74.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA S
+ligand_types A C HD NA OA
+receptor rec_29_pH74.pdbqt
+gridcenter 88.574 67.668 49.561
+smooth 0.5
+map rec74.A.map
+map rec74.C.map
+map rec74.HD.map
+map rec74.NA.map
+map rec74.OA.map
+elecmap rec74.e.map
+dsolvmap rec74.d.map
+dielectric -0.1465

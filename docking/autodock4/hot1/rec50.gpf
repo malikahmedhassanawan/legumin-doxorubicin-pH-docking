@@ -1,0 +1,16 @@
+npts 60 60 60
+gridfld rec50.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA S
+ligand_types A C HD NA OA
+receptor rec_29_pH50.pdbqt
+gridcenter 88.574 67.668 49.561
+smooth 0.5
+map rec50.A.map
+map rec50.C.map
+map rec50.HD.map
+map rec50.NA.map
+map rec50.OA.map
+elecmap rec50.e.map
+dsolvmap rec50.d.map
+dielectric -0.1465
