@@ -1,0 +1,16 @@
+npts 60 60 60
+gridfld z2.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA S
+ligand_types A C HD NA OA
+receptor z2.pdbqt
+gridcenter 121.739 98.522 32.625
+smooth 0.5
+map z2.A.map
+map z2.C.map
+map z2.HD.map
+map z2.NA.map
+map z2.OA.map
+elecmap z2.e.map
+dsolvmap z2.d.map
+dielectric -0.1465
