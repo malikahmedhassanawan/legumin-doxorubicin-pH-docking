@@ -1,0 +1,15 @@
+autodock_parameter_version 4.2
+outlev 1
+intelec
+ligand_types A C HD NA OA
+fld x2.maps.fld
+map x2.A.map
+map x2.C.map
+map x2.HD.map
+map x2.NA.map
+map x2.OA.map
+elecmap x2.e.map
+desolvmap x2.d.map
+move lig6.pdbqt
+about 92.193 103.124 33.290
+epdb
