@@ -1,0 +1,16 @@
+npts 60 60 60
+gridfld hot2_2.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA S
+ligand_types A C HD NA OA
+receptor hot2_2.pdbqt
+gridcenter 89.149 116.674 42.483
+smooth 0.5
+map hot2_2.A.map
+map hot2_2.C.map
+map hot2_2.HD.map
+map hot2_2.NA.map
+map hot2_2.OA.map
+elecmap hot2_2.e.map
+dsolvmap hot2_2.d.map
+dielectric -0.1465
