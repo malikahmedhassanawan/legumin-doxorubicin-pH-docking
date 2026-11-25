@@ -1,0 +1,15 @@
+autodock_parameter_version 4.2
+outlev 1
+intelec
+ligand_types A C HD NA OA
+fld p_pocket6.maps.fld
+map p_pocket6.A.map
+map p_pocket6.C.map
+map p_pocket6.HD.map
+map p_pocket6.NA.map
+map p_pocket6.OA.map
+elecmap p_pocket6.e.map
+desolvmap p_pocket6.d.map
+move pocket6_lig.pdbqt
+about 92.193 103.124 33.290
+epdb

@@ -1,0 +1,15 @@
+autodock_parameter_version 4.2
+outlev 1
+intelec
+ligand_types A C HD NA OA
+fld p_centre.maps.fld
+map p_centre.A.map
+map p_centre.C.map
+map p_centre.HD.map
+map p_centre.NA.map
+map p_centre.OA.map
+elecmap p_centre.e.map
+desolvmap p_centre.d.map
+move centre_lig.pdbqt
+about 96.826 102.116 47.451
+epdb

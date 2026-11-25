@@ -1,0 +1,16 @@
+npts 60 60 60
+gridfld p_pocket6.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA S
+ligand_types A C HD NA OA
+receptor p_pocket6.pdbqt
+gridcenter 92.193 103.124 33.290
+smooth 0.5
+map p_pocket6.A.map
+map p_pocket6.C.map
+map p_pocket6.HD.map
+map p_pocket6.NA.map
+map p_pocket6.OA.map
+elecmap p_pocket6.e.map
+dsolvmap p_pocket6.d.map
+dielectric -0.1465

@@ -1,0 +1,16 @@
+npts 60 60 60
+gridfld p_hot4.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA S
+ligand_types A C HD NA OA
+receptor p_hot4.pdbqt
+gridcenter 120.594 113.608 64.724
+smooth 0.5
+map p_hot4.A.map
+map p_hot4.C.map
+map p_hot4.HD.map
+map p_hot4.NA.map
+map p_hot4.OA.map
+elecmap p_hot4.e.map
+dsolvmap p_hot4.d.map
+dielectric -0.1465
