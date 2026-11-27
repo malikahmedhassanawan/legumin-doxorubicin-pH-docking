@@ -6,7 +6,7 @@ Docking and pKa survey of doxorubicin binding to a pea legumin hexamer at pH 7.4
 
 Malik Ahmed Hassan Awan, Department of Food Science and Technology, Bahauddin Zakariya University, Multan, Pakistan (ORCID [0009-0002-7395-6639](https://orcid.org/0009-0002-7395-6639)).
 
-Preprint: ChemRxiv, November 2026 10.26434/chemrxiv.15012892/v1
+Preprint: ChemRxiv, November 2026 https://doi.org/10.26434/chemrxiv.15012892/v1
 Large files: https://doi.org/10.5281/zenodo.24519789
 
 ## The question
@@ -87,7 +87,7 @@ Trajectories, full receptor sets and other large files are archived on Zenodo: h
 
 ## Citation
 
-Awan, M. A. H. No docking-level pH response of doxorubicin binding to a legumin hexamer: a docking and pKa survey of candidate release sites. ChemRxiv, 2026. 10.26434/chemrxiv.15012892/v1
+Awan, M. A. H. No docking-level pH response of doxorubicin binding to a legumin hexamer: a docking and pKa survey of candidate release sites. ChemRxiv, 2026. https://doi.org/10.26434/chemrxiv.15012892/v1
 
 Archive: Awan, M. A. H. Legumin–doxorubicin pH docking data. Zenodo. https://doi.org/10.5281/zenodo.24519789
 
